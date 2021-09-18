@@ -1,4 +1,4 @@
-# ECOM151_2020
+## Big Data Applications in Finance (Course material)
 
 Hi everyone, 
 
