@@ -1,7 +1,5 @@
 ## Big Data Applications in Finance (Course material)
 
-Hi everyone, 
-
 This is some of the material I covered last year for my course of "Big Data Applications in Finance". The course cover nine topics. Topics are the following:
 
 * Introduction to the module an MatlabWeek 
